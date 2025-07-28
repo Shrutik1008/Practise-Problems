@@ -16,11 +16,10 @@ public class Anagram {
         }else{
             System.out.println("Anagrams cannot be found");
         }
-
     }
 
     public static void main(String[] args) {
-        String Str1 = "listn";
+        String Str1 = "listen";
         String Str2 = "silent";
         Anagrams(Str1, Str2);
     }
