@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "Practise-Problems_773e472a"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Practise-Problems_773e472a"
+        },
+        {
+            "type": "java",
             "name": "ContainDuplicate",
             "request": "launch",
             "mainClass": "ContainDuplicate",
